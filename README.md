@@ -1,8 +1,8 @@
 # plone.com
 
-Plone.com is the high-level introduction / marketing site for the Plone open source web content management system.
+https://Plone.com is the high-level introduction / marketing site for the Plone open source web content management system.
 
-(Plone.org is the community / developer site for Plone).
+(https://Plone.org is the community / developer site for Plone).
 
 This repo is the jumping off point for other Plone.com-related repos.
 
