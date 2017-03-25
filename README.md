@@ -4,9 +4,9 @@ https://Plone.com is the high-level introduction / marketing site for the Plone 
 
 (https://Plone.org is the community / developer site for Plone).
 
-This repo is the jumping off point for other Plone.com-related repos.
+This repo (https://github.com/plone/plone.com/) is the jumping off point for other Plone.com-related repos.
 
-This repo's issue tracker is where you should file bugs about https://plone.com
+This repo's issue tracker (https://github.com/plone/plone.com/issues) is where you should file bugs about https://plone.com
 
 The Plone.com theme repo is at https://github.com/plone/diazotheme.plonecom 
 
